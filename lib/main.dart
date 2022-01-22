@@ -1,7 +1,7 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:object_detection/realtime/live_camera.dart';
-import 'package:object_detection/static.dart';
+import 'package:object_detection/static_image/static.dart';
 
 List<CameraDescription> cameras;
 
